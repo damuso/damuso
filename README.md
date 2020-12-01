@@ -4,10 +4,9 @@
 {
   "name":        "Damián Paranič",
   "university" : "Faculty of Informatics, Masaryk University, Brno",
-  "birthday":    "15-05-2000",
   "country":     "Slovak republic",
   "city":        "Svidník",
-  "stack":       ["PHP", "MySQL", "HTML", "CSS", "JS", "..."],
+  "stack":       ["PHP", "MySQL", "HTML", "CSS", "JS", "Python", "..."],
   "interest":    ["Piano", "Music", "Development", "..."],
 }
 ```
