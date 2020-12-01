@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+```json
+{
+  "name"   :  "Damián Paranič",
+  "university" : "Faculty of informatics, Masaryk university, Brno",
+  "birthday": "15-05-2000",
+  "country":  "Slovak republic",
+  "city":     "Svidník",
+  "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "..."],
+  "interest": ["Piano", "Music", "Development", "..."],
+}
+```
+
+
 <!--
 ![Damuso's github stats](https://github-readme-stats.vercel.app/api?username=damuso&show_icons=true&theme=vue-dark) 
 -->
