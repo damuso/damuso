@@ -6,7 +6,7 @@
   "university" : "Faculty of Informatics, Masaryk University, Brno 🇨🇿",
   "country":     "Slovak republic 🇸🇰",
   "city":        "Svidník",
-  "stack":       ["PHP", "MySQL", "HTML", "CSS", "JS", "Python", "..."],
+  "stack":       ["Python", "C", "C#", "Java", "JS", "PHP", "MySQL", "HTML", "CSS", "..."],
   "interest":    ["Piano", "Music", "Development", "..."],
 }
 ```
