@@ -3,6 +3,7 @@
 ```json
 {
   "name":        "Damián Paranič",
+  "work":        "Jamf",
   "university" : "Faculty of Informatics, Masaryk University, Brno 🇨🇿",
   "city":        "Brno 🇨🇿 / Svidník 🇸🇰",
   "stack":       ["Python", "C", "C#", "Java", "TypeScript", "Rust", "Dart", "PHP", "MySQL", "HTML", "CSS", "..."],
